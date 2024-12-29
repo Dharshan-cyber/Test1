@@ -1,6 +1,5 @@
 import pyttsx3
-
-# Initialize the pyttsx3 engine
+#hi da
 engine = pyttsx3.init()
 
 # Set properties (optional)
